@@ -1,0 +1,14 @@
+{
+  "domain": "x2d_gateway",
+  "name": "X2D Gateway",
+  "codeowners": ["Carney-IT-Consult"],
+  "dependencies": ["http"],
+  "documentation": "https://www.home-assistant.io/integrations/x2d_gateway",
+  "issue_tracker": "https://github.com/Carney-IT-Consult/X2D-Gateway-integration/issues",
+  "integration_type": "device",
+  "config_flow": true,
+  "loggers": ["x2d_gateway"],
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.0.1"
+}
